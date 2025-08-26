@@ -9,8 +9,8 @@ import time
 # --- 🔑 IMPORTANT: Hardcode Your API Keys Here ---
 # Replace "YOUR_GOOGLE_API_KEY" with your actual Google AI Studio API key.
 # Replace "YOUR_CLIPDROP_API_KEY" with your actual Clipdrop API key.
-GOOGLE_API_KEY = "AIzaSyCcNPmkSyDM80pABNwmkdBIDzbf0GryhaA"
-CLIPDROP_API_KEY = "78b26ac204af48eb6e4a145718966b5de446455075f5a4db6218756b454c0423bda34c4d5ece11acade88d066ff4522c"
+GOOGLE_API_KEY = "GOOGLE_API_KEY"
+CLIPDROP_API_KEY = "CLIPDROP_API_KEY"
 
 # --- Style and Configuration ---
 ART_STYLES = {
