@@ -6,7 +6,7 @@ This project uses **Google Gemini** to analyze stories and generate scene prompt
 ---
 
 ## 📽️ Demo Video  
-👉 *(Add your YouTube/video link here after uploading)*  
+👉 [🎥 Watch the demo](ai_story_.mp4)  
 
 ---
 
